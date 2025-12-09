@@ -39,3 +39,13 @@ border-radius: 10px;
 .ranking-list li {
 margin-bottom: 10px;
 }
+.pt-logo {
+width: 120px;
+border-radius: 50%;
+float: left;
+}
+nav a:hover {
+    text-overflow: #f9f3b9 0 0 5px;
+    color: #e5cd6c;
+    margin: 0 15px;
+}
